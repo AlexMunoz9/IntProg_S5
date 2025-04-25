@@ -13,5 +13,4 @@ def main():
     lado2 = float(input("Ingrese el lado 2: "))
     lado3 = float(input("Ingrese el lado 3: "))
     
-    resultado = es_triangulo(lado1, lado2, lado3)
-    print(resultado)
+    print(es_triangulo(lado1, lado2, lado3))
